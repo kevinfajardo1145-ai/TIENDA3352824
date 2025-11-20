@@ -12,4 +12,10 @@ body{background-color: rgb(35, 168, 221);
     margin: 0px auto;
     box-shadow: 0px 5px 10px #e5e907;
     /*border: 1px solid red;*/
+    background-color: bisque;
+ }
+
+ #header{
+   height: 145px;
+   background-color: azure;
  }
