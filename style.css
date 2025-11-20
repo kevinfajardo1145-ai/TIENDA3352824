@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+body{background-color: rgb(35, 168, 221);
+ }
+
+ #container{
+    width: 80%;
+    margin: 0px auto;
+    box-shadow: 0px 5px 10px #e5e907;
+    /*border: 1px solid red;*/
+ }
